@@ -1,2 +1,10 @@
 # MyBeachCare-System-Management
-An interactive website application made from PHP, HTML, CSS, and JS. This website focused on keeping the beaches of Malaysia clean and safe for public. It is also a platform to build a community with public and social links. Fund collected for cleanup tools and charity.
+
+From class: D1CDIM2624A
+Subject: IMS566
+Session: October 2025 - February 2026
+
+Developer Team:
+NUR FADHILAH BINTI ARIFIN	2024438458
+NURUL ABSARINA BINTI ADANAN	2024903057
+NUR ALIA IZZATI BINTI AZMAN	2024764737
