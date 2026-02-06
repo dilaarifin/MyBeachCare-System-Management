@@ -1,5 +1,6 @@
 # MyBeachCare-System-Management
-* From class: D1CDIM2624A Subject: IMS566 
+* From class: D1CDIM2624A
+* Subject: IMS566 
 * Session: October 2025 - February 2026
 
 * Developer Team: 
